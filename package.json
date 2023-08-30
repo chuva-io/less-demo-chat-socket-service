@@ -1,0 +1,13 @@
+{
+  "name": "chat-socket-service",
+  "version": "1.0.0",
+  "description": "Less Demo: Realtime Chat Microservice.",
+  "scripts": {
+    "deploy": "less-cli deploy"
+  },
+  "author": "Chuva",
+  "license": "MIT",
+  "dependencies": {
+    "@chuva.io/less-cli": "^1.0.0"
+  }
+}
